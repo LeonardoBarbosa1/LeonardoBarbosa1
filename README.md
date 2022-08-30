@@ -24,8 +24,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-
-
 </div><br/>
 
 ### Melhor coisa que fiz da minha vida foi ter começado a estudar programação. Já estou muito ansioso para começar trabalhar na área e colocar   meus       conhecimentos em pratica.
