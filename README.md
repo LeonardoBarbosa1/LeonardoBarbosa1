@@ -4,7 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leooh_/)
 
 
-## Tecnologias que domíno bem:
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <div style="display: inline_block"><br/>
     <h3>Front-End</h3>
@@ -26,6 +28,6 @@
 
 </div><br/>
 
-### Melhor coisa que fiz da minha vida foi ter começado a estudar programação. Já estou muito ansioso para começar trabalhar na área e colocar   meus       conhecimentos em pratica.
+### Melhor coisa que fiz da minha vida foi ter começado a estudar programação. Já estou muito ansioso para começar trabalhar na área de desenvolvimento e colocar   meus       conhecimentos em pratica.
    
     
