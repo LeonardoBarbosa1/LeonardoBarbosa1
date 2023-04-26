@@ -16,12 +16,11 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white">
     
 
 </div><br/>
 
-### Melhor coisa que fiz da minha vida foi ter começado a estudar programação. Já estou muito ansioso para começar trabalhar na área de desenvolvimento e colocar   meus       conhecimentos em pratica.
+### Tenho uma boa lógica de programação, Tenho conhecimento em laravel(MVC, ELOQUENT, MIGRATION, MIDDLEWARE, API'S). Tenho conhecimento na linguagem MySQL(CRUD, JOIN, OPERADORES, FUNÇÕES SQL, CONSTRAINTS, INDEX), Tenho Conhecimento em HTML, CSS, Tailwind.
    
     
