@@ -21,6 +21,10 @@
 
 </div><br/>
 
-### Tenho uma boa lógica de programação, Tenho conhecimento em laravel(MVC, ELOQUENT, MIGRATION, MIDDLEWARE, API'S). Tenho conhecimento na linguagem MySQL(CRUD, JOIN, OPERADORES, FUNÇÕES SQL, CONSTRAINTS, INDEX), Tenho Conhecimento em HTML, CSS, Tailwind.
+### Atualmente busco ingressar na área de Desenvolvimento de Software como CLT ou PJ. Tenho 20 anos e estudo programação desde 2021, com foco em desenvolvimento Full-Stack. Aqui está minhas habilidades em PHP (Laravel), HTML, CSS (Tailwind, Bootstrap) e MySQL, trabalhando principalmente em ambiente Linux.
+
+### Como desenvolvedor Full-Stack, possuo conhecimento em Laravel, incluindo MVC, Eloquent, Migration, Validations e Middleware. Estou constantemente buscando adquirir mais conhecimento e enfrentar novos desafios.
+
+### Além disso, mantenho um perfil ativo no Instagram (@dev.barbosa2), onde compartilho conteúdo relacionado ao desenvolvimento web.
    
     
