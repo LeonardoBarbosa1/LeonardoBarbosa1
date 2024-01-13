@@ -3,6 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barbosa-a9639a21a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.barbosa2/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoBarbosa1&label=Profile%20views&color=0e75b6&style=flat" alt="LeonardoBarbosa1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeonardoBarbosa1" alt="LeonardoBarbosa1" /></a> </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
