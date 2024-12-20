@@ -18,13 +18,14 @@
     <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+      <img align="center" alt="html5" src="https://img.shields.io/badge/Yii2-1e90ff?style=for-the-badge&logo=yii2&logoColor=white">
     <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white">
     
 
 </div><br/>
 
-### Tenho 21 anos e ingressei na área de desenvolvimento em 2023, com foco em desenvolvimento Full-Stack. Aqui está minhas habilidades em PHP (Laravel, YII2), HTML, CSS (Tailwind, Bootstrap), JS e MySQL, trabalhando principalmente em ambiente Linux.
+### Tenho 22 anos e ingressei na área de desenvolvimento em 2023, com foco em desenvolvimento Full-Stack. Aqui está minhas habilidades em PHP (Laravel, YII2), HTML, CSS (Tailwind, Bootstrap), JS e MySQL, trabalhando principalmente em ambiente Linux.
 
 ### Além disso, mantenho um perfil ativo no Instagram (@dev.barbosa2), onde compartilho conteúdo relacionado ao desenvolvimento web.
    
