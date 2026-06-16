@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoBarbosa1&label=Profile%20views&color=0e75b6&style=flat" alt="LeonardoBarbosa1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeonardoBarbosa1" alt="LeonardoBarbosa1" /></a> </p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
