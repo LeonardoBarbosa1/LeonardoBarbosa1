@@ -26,7 +26,7 @@
 
 </div><br/>
 
-### Tenho 22 anos e ingressei na área de desenvolvimento em 2023, com foco em desenvolvimento Full-Stack. Aqui está minhas habilidades em PHP (Laravel, YII2), HTML, CSS (Tailwind, Bootstrap), JS e MySQL, trabalhando principalmente em ambiente Linux.
+### Ingressei na área de desenvolvimento em 2023, com foco em desenvolvimento Full-Stack. Aqui está minhas habilidades em PHP (Laravel, YII2), HTML, CSS (Tailwind, Bootstrap), JS(Vue) e MySQL, trabalhando principalmente em ambiente Linux.
 
 ### Além disso, mantenho um perfil ativo no Instagram (@dev.barbosa2), onde compartilho conteúdo relacionado ao desenvolvimento web.
    
